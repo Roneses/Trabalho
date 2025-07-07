@@ -1,0 +1,70 @@
+body{background-color: rgb(203, 147, 255);}
+h1{color: white; background-color: rgb(157, 71, 228); text-align: center; font-family: 'Times New Roman', Times, serif;}
+
+h2{color: white; font-family: 'Times New Roman', Times, serif; background-color: rgb(157, 71, 228);}
+
+p{font-size: larger;}
+
+li{margin-bottom: 10px; font-size: large;}
+
+img{border-radius: 10px;}
+
+.principal{text-align: justify;}
+
+table{border-collapse:collapse;}
+
+th{background-color: rgb(157, 71, 228);}
+
+th{color: white;}
+
+.you:hover{color: rgb(250, 0, 0);}
+.you{text-align: left;}
+
+.mensagem{
+    background-color: rgb(157, 71, 228);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 425px;
+    margin-right: 425px;
+    border-style:inset;
+    padding: 10px;
+}
+.botao:hover{color: green;}
+.tube{position: absolute;
+left: 250px;
+top: 890px;
+width: 200px;
+}
+
+.arte{position: absolute;
+left: 840px;
+top: 360px;
+width: 250px;
+}
+
+.secreta{text-align: center;}
+
+.botao{
+    background-color: white;
+    border-style: outset;
+    color: rgb(157, 71, 228);
+    font-size: large;
+    margin-left: 525px;
+}
+
+.japao{
+    width: 300px;
+}
+
+.londres{
+    width: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.canada{
+    width: 355px;
+}
